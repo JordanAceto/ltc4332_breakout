@@ -1,5 +1,5 @@
 ** Drc report for /home/jordan/csik/ltc4332_breakout/kicad_6/ltc4332_breakout.kicad_pcb **
-** Created on 2022-06-23 15:23:09 **
+** Created on 2022-07-16 09:42:50 **
 
 ** Found 0 DRC violations **
 
